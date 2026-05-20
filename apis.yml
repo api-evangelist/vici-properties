@@ -24,6 +24,8 @@ description: >-
   and partners through corporate and investor relations channels.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/vici-properties-inc
   - type: Website
     url: https://www.viciproperties.com/
   - type: Investors
