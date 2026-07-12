@@ -24,6 +24,8 @@ description: >-
   and partners through corporate and investor relations channels.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/vici-properties-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/vici-properties-inc
   - type: Website
@@ -36,6 +38,8 @@ common:
     url: https://www.viciproperties.com/careers
   - type: Contact
     url: https://www.viciproperties.com/contact-us
+  - url: https://viciproperties.com/feed/
+    type: Blog
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
