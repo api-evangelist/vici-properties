@@ -6,7 +6,7 @@ tags:
   - Experiential Real Estate
   - Gaming
   - Hospitality
-  - Real-Estate
+  - Real Estate
   - REIT
 tags_raw:
   - Casinos
@@ -15,6 +15,7 @@ tags_raw:
   - Hospitality
   - Real Estate
   - REIT
+  - Real-Estate
 type: Index
 deliveryModel:
   model: unknown
